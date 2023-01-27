@@ -1,1 +1,2 @@
-import { getDate, gameData } from 'data.js'
+import { getData, gameData } from 'data.js'
+
